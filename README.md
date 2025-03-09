@@ -30,7 +30,7 @@ resume_screening_app/
 
 1️⃣ Clone the Repository
 
-git clone 
+git clone :- https://github.com/Bhushan98D/AI-powered-Resume-Screening-and-Ranking-System
 
 2️⃣ (Optional) Create a Virtual Environment
 
